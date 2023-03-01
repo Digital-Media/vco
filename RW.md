@@ -1,7 +1,7 @@
 # CV Related-Work Research
 The topic of your research review is free to choose, but it must be Computer Vision related. Focus on a Computer-Vision algorithm and understand its details. Look at the intro slides for some inspiration! 
 
-The deliverables for the research are the announcements of your idea and your team, one presentation, and a project report (plus supplementary files like code or data). 
+The deliverables for the research are the announcements of your idea and your team, one presentation, and a chapter in the course report. 
 
 ### Presentation
 For presentations you will have a maximum of 10 minutes for your talk plus 5 minutes for questions. Your goal is to present something interesting to your fellow students, so they learn something from your talk. It is okay if only one team member presents. 
@@ -26,7 +26,7 @@ During the presentation you should answer the following major questions:
 - What are the existing methods? 
 
 ## Final Report
-Summarize your literature research (Part 1) as a chapter in the final report. 
+Summarize your literature research (Part 1) as a chapter in the course report. 
 The report also contains the solution to your homework in additional chapters. 
 Reports should be submitted by each team member. If there is an unequal distribution of contributions within your team describe it in the report (e.g., student A did 60% of the work while B only did 40%), and I will consider it for grading. 
 
