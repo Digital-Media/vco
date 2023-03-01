@@ -1,27 +1,30 @@
-# Computer Vision 2022
-Repository for the Computer Vision course (IM520) at the FH Hagenberg. 
+# Visual Computing
+
+Repository for the Visual Computing course (VCO2-IM.ma VZ SS23) at the FH Hagenberg. 
 
 Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 ## Tutorials:
-1. [Python for Computer Vision](./01_PythonTutorial.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/01_PythonTutorial.ipynb)
-2. [Introduction to OpenCV](./02_OpenCV.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/02_OpenCV.ipynb)
-3. [Filters](./03_Filters.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/03_Filters.ipynb)
-4. [Edges and Lines](./04_Edges.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/04_Edges.ipynb)
-5. [Corners and Featuers](05_Features.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/05_Features.ipynb)
-6. [Alignment](06_Alignment.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/06_Alignment.ipynb)
-7. [Stereo](07_Stereo.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/07_Stereo.ipynb)
-8. [CNN](08_CNN.ipynb) -- Colab:  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/08_CNN.ipynb)
+
+| # | Tutorial (link to `.ipynb`)  | Open in Colab  |
+|---|---|---|
+| 1 | [Python for Computer Vision](./01_PythonTutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/01_PythonTutorial.ipynb)
+| 2 | [Introduction to OpenCV](./02_Images.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/02_Images.ipynb) |  
+
+
+[^1]: Using Colab is highly recommended for these tutorial(s).
 
 ## Homework Tasks:
-1. [Compression](./HW01_Compression.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW01_Compression.ipynb)
-2. [Circles and Features](./HW02_Circles.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW02_Circles.ipynb)
-3. [Camera Calibration](./HW03_Calibration.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW03_Calibration.ipynb)
-4. [Autoencoder Compression](./HW04_Autoencoder.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/schedldave/cv2022/blob/main/HW04_Autoencoder.ipynb)
+
+| # | Homework (link to `.ipynb`)  | Open in Colab  |
+|---|---|---|
+| 1 | tba | tba |
+
+
 
 ## Python Setup:
 
-Students have the option to run the code *online* with Google Colab (requires a Google account) or *locally* with your own installation of Python and an editor (I recommend Visual Studio Code).
+Students have the option to run the code *online* with Google Colab (requires a Google account) or *locally* with your own installation of Python.
 
 #### Online: 
 Everything runs on a Google machine, so you don't need to set up anything on your computer. Furthermore, the machines come with the most popular libraries preinstalled. 
