@@ -3,7 +3,7 @@ The topic is free to choose, but below you will find a list of possible topics f
 
 ---
 
-## From Text to Images and vice versa
+## From Text to Images, 3D models, ... and vice versa
 
 The goal of this project is to investigate a recent trend in deep learning: combining language and image models. The topic is about systems that can convert text to images and vice versa. 
 
