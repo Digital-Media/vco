@@ -8,8 +8,8 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 | # | Tutorial (link to `.ipynb`)  | Open in Colab  |
 |---|---|---|
-| 1 | [Python for Computer Vision](./01_PythonTutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/01_PythonTutorial.ipynb)
-| 2 | [Introduction to OpenCV](./02_Images.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/di_cv/blob/main/02_Images.ipynb) |  
+| 1 | [Python for Computer Vision](./01_PythonTutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/01_PythonTutorial.ipynb)
+
 
 
 [^1]: Using Colab is highly recommended for these tutorial(s).
