@@ -37,7 +37,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 ## Python Setup:
 
-Students have the option to run the code *online* with Google Colab (requires a Google account) or *locally* with your own installation of Python.
+Students have the option to run the code *online* with Google Colab (requires a Google account) or *locally* with a local installation of Python.
 
 #### Online: 
 Everything runs on a Google machine, so you don't need to set up anything on your computer. Furthermore, the machines come with the most popular libraries preinstalled. 
