@@ -18,6 +18,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 8 | [(recap) Neural Networks](08_NNs.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/08_NNs.ipynb) |
 | 9a | [CNN (LeNet in TensorFlow)](09a_CNN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/09a_CNN.ipynb) |
 | 9b | [CNN (LeNet in PyTorch)](09b_CNN.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/09b_CNN.ipynb) |
+
 [^1]: Using Colab is highly recommended for these tutorial(s).
 
 
@@ -26,6 +27,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | # | Homework (link to `.ipynb`)  | Open in Colab  |
 |---|---|---|
 | 1 | [Compression](./HW01_Compression.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW01_Compression.ipynb) |
+| 2 | [Panoramas, Features, & Calibration](./HW02_Calibration.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW02_Calibration.ipynb) |
 
 <!--
 2. [Circles and Features](./HW02_Circles.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW02_Circles.ipynb)
