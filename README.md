@@ -1,6 +1,6 @@
 # Visual Computing
 
-Repository for the Visual Computing course (VCO2-IM.ma VZ SS23) at the FH Hagenberg. 
+Repository for the Visual Computing course (VCO2-IM.ma VZ SS24) at the FH Hagenberg. 
 
 Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
@@ -9,6 +9,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | # | Tutorial (link to `.ipynb`)  | Open in Colab  |
 |---|---|---|
 | 1 | [Python Tutorial](./01_PythonTutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/01_PythonTutorial.ipynb) |
+<!--
 | 2 | [OpenCV Tutorial](./02_OpenCV.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/02_OpenCV.ipynb) |
 | 3 | [Filters](./03_Filters.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/03_Filters.ipynb) |
 | 4 | [Edges and Lines](./04_Edges.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/04_Edges.ipynb) |
@@ -21,6 +22,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 10 | [Transfer Learning a CNN](10_TL.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/10_TL.ipynb) |
 | 11 | [Image representation with an MLP](11_IMLP.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/11_IMLP.ipynb) |
 | 12 | [Object Detection](12_OD.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/12_OD.ipynb) |
+-->
 
 [^1]: Using Colab is highly recommended for these tutorial(s).
 
