@@ -31,10 +31,11 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 | # | Homework (link to `.ipynb`)  | Open in Colab  |
 |---|---|---|
+<!--
 | 1 | [Compression](./HW01_Compression.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW01_Compression.ipynb) |
 | 2 | [Panoramas, Features, & Calibration](./HW02_Calibration.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW02_Calibration.ipynb) |
 | 3 | [ML Compression](./HW03_ML.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW03_ML.ipynb) |
-
+-->
 <!--
 2. [Circles and Features](./HW02_Circles.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW02_Circles.ipynb)
 3. [Camera Calibration](./HW03_Calibration.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW03_Calibration.ipynb)
