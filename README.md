@@ -6,24 +6,23 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 ## Tutorials:
 
-| #   | Tutorial (link to `.ipynb`)                  | Open in Colab                                                                                                                                                              |
-| --- | -------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [Python Tutorial](./01_PythonTutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/01_PythonTutorial.ipynb) |
-| 2   | [OpenCV Tutorial](./02_OpenCV.ipynb)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/02_OpenCV.ipynb)         |
-| 3   | [Filters](./03_Filters.ipynb)                | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/03_Filters.ipynb)        |
-| 4   | [Edges and Lines](./04_Edges.ipynb)          | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/04_Edges.ipynb)          |
-| 5   | [Corners and Featuers](05_Features.ipynb)    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/05_Features.ipynb)       |
-| 6   | [Alignment](06_Alignment.ipynb)              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/06_Alignment.ipynb)      |
-| 7   | [Stereo](07_Stereo.ipynb)                    | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/07_Stereo.ipynb)         |
+| #   | Tutorial (link to `.ipynb`)                       | Open in Colab                                                                                                                                                              |
+| --- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1   | [Python Tutorial](./01_PythonTutorial.ipynb)      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/01_PythonTutorial.ipynb) |
+| 2   | [OpenCV Tutorial](./02_OpenCV.ipynb)              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/02_OpenCV.ipynb)         |
+| 3   | [Filters](./03_Filters.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/03_Filters.ipynb)        |
+| 4   | [Edges and Lines](./04_Edges.ipynb)               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/04_Edges.ipynb)          |
+| 5   | [Corners and Featuers](05_Features.ipynb)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/05_Features.ipynb)       |
+| 6   | [Alignment](06_Alignment.ipynb)                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/06_Alignment.ipynb)      |
+| 7   | [Stereo](07_Stereo.ipynb)                         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/07_Stereo.ipynb)         |
+| 8   | [(recap) Neural Networks](08_NNs.ipynb)           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/08_NNs.ipynb)            |
+| 9a  | [CNN (LeNet in TensorFlow)](09a_CNN.ipynb)        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/09a_CNN.ipynb)           |
+| 9b  | [CNN (LeNet in PyTorch)](09b_CNN.ipynb)           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/09b_CNN.ipynb)           |
+| 10  | [Transfer Learning a CNN](10_TL.ipynb)            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/10_TL.ipynb)             |
+| 11  | [Image representation with an MLP](11_IMLP.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/11_IMLP.ipynb)           |
 
 <!--
-| 8    | [(recap) Neural Networks](08_NNs.ipynb)           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/08_NNs.ipynb)            |
-| 9a   | [CNN (LeNet in TensorFlow)](09a_CNN.ipynb)        | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/09a_CNN.ipynb)           |
-| 9b   | [CNN (LeNet in PyTorch)](09b_CNN.ipynb)           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/09b_CNN.ipynb)           |
-| 10   | [Transfer Learning a CNN](10_TL.ipynb)            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/10_TL.ipynb)             |
-| 11   | [Image representation with an MLP](11_IMLP.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/11_IMLP.ipynb)           |
 | 12   | [Object Detection](12_OD.ipynb)                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/12_OD.ipynb)             |
-
 -->
 
 [^1]: Using Colab is highly recommended for these tutorial(s).
@@ -33,16 +32,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | #   | Homework (link to `.ipynb`)             | Open in Colab                                                                                                                                                             |
 | --- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 1   | [Compression](./HW01_Compression.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW01_Compression.ipynb) |
-
-<!-- | 2                                       | [Panoramas, Features, & Calibration](./HW02_Calibration.ipynb)                                                                                                            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW02_Calibration.ipynb) |
-| 3    | [ML Compression](./HW03_ML.ipynb)       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW03_ML.ipynb)          |
--->
-
-<!--
-2. [Circles and Features](./HW02_Circles.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW02_Circles.ipynb)
-3. [Camera Calibration](./HW03_Calibration.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW03_Calibration.ipynb)
-4. [Autoencoder Compression](./HW04_Autoencoder.ipynb) -- Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW04_Autoencoder.ipynb)
--->
+| 2   | [ML Compression](./HW02_ML.ipynb)       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW02_ML.ipynb)          |
 
 ## Python Setup:
 
