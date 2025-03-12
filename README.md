@@ -1,15 +1,17 @@
 # Visual Computing
 
-Repository for the Visual Computing course (VCO2-IM.ma VZ SS24) at the FH Hagenberg.
+Repository for the Visual Computing course (VCO2-IM.ma VZ SS25) at the FH Hagenberg.
 
 Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 
 ## Tutorials:
 
-| #   | Tutorial (link to `.ipynb`)                       | Open in Colab                                                                                                                                                              |
-| --- | ------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 1   | [Python Tutorial](./01_PythonTutorial.ipynb)      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/01_PythonTutorial.ipynb) |
-| 2   | [OpenCV Tutorial](./02_OpenCV.ipynb)              | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/02_OpenCV.ipynb)         |
+| # | Tutorial (link to `.ipynb`)             | Open in Colab                                                                                                                                                         |
+| - | ----------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| 1 | [Python Tutorial](./01_PythonTutorial.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/01_PythonTutorial.ipynb) |
+| 2 | [OpenCV Tutorial](./02_OpenCV.ipynb)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/02_OpenCV.ipynb)         |
+
+<!-- 
 | 3   | [Filters](./03_Filters.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/03_Filters.ipynb)        |
 | 4   | [Edges and Lines](./04_Edges.ipynb)               | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/04_Edges.ipynb)          |
 | 5   | [Corners and Featuers](05_Features.ipynb)         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/05_Features.ipynb)       |
@@ -20,19 +22,21 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 9b  | [CNN (LeNet in PyTorch)](09b_CNN.ipynb)           | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/09b_CNN.ipynb)           |
 | 10  | [Transfer Learning a CNN](10_TL.ipynb)            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/10_TL.ipynb)             |
 | 11  | [Image representation with an MLP](11_IMLP.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/11_IMLP.ipynb)           |
+-->
 
 <!--
 | 12   | [Object Detection](12_OD.ipynb)                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/12_OD.ipynb)             |
 -->
 
-[^1]: Using Colab is highly recommended for these tutorial(s).
-
 ## Homework Tasks:
 
-| #   | Homework (link to `.ipynb`)             | Open in Colab                                                                                                                                                             |
-| --- | --------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| # | Homework (link to `.ipynb`) | Open in Colab |
+| - | ----------------------------- | ------------- |
+
+<!-- 
 | 1   | [Compression](./HW01_Compression.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW01_Compression.ipynb) |
 | 2   | [ML Compression](./HW02_ML.ipynb)       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW02_ML.ipynb)          |
+-->
 
 ## Python Setup:
 
@@ -63,3 +67,5 @@ The topic of your presentation is free to choose (as long as it is CV related).
 Focus on a Computer-Vision task/algorithm (a scientific work), understand its details (advantages, limitations, competition, ...), and explain it to your fellow students.
 
 IMPORTANT: Pick a fun topic that **interests you**! You can find further details [here](../images/RW.md) and an inspiration for topics [here](../images/TOPICS.md).
+
+[^1]: Using Colab is highly recommended for these tutorial(s).
