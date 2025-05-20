@@ -29,9 +29,8 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | # | Homework (link to `.ipynb`) | Open in Colab |
 | - | ----------------------------- | ------------- | 
 | 1   | [Calibration](./HW01_Calibration.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW01_Calibration.ipynb) |
-<!--
-| 2   | [ML Compression](./HW02_ML.ipynb)       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW02_ML.ipynb)          |
--->
+| 2   | [Compression](./HW02_Compression.ipynb)       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/HW02_Compression.ipynb)          |
+
 
 ## Python Setup:
 
