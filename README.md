@@ -21,10 +21,8 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 10  | [Transfer Learning a CNN](10_TL.ipynb)            | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/10_TL.ipynb)             |
 | 11a | [Image representation with an MLP](11_IMLP.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/11_IMLP.ipynb)           |
 | 11b | [Tiny NeRF](11b_TinyNeRF.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/11b_TinyNeRF.ipynb)           |
-
-<!--
 | 12   | [Object Detection](12_OD.ipynb)                   | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/12_OD.ipynb)             |
--->
+
 
 ## Homework Tasks:
 
