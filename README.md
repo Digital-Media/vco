@@ -11,6 +11,7 @@ Contact: [David C. Schedl](mailto:david.schedl@fh-hagenberg.at).
 | 1  | [Python Tutorial](./01_PythonTutorial.ipynb)      | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/01_PythonTutorial.ipynb) |
 | 2  | [Images](./02_Images.ipynb)                       | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/02_Images.ipynb)             |
 | 3  | [Filters](./03_Filters.ipynb)                     | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/03_Filters.ipynb)        |
+| 4  | [Edges](./04_Edges.ipynb)                         | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Digital-Media/vco/blob/main/04_Edges.ipynb)          |
 
 
 ## Python Setup:
